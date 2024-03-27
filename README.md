@@ -15,20 +15,19 @@ The purpose of this analysis is to assist the nonprofit foundation Alphabet Soup
 
 * The first attemp, I chose the model with two hidden layers. The hidden nodes layer 1 is 80 and the hidden nodes layer 2 is 30. Model then got compile and got train. However, the accuracy is only 72%.
 
-/Users/loanho/Desktop/Screenshot 2024-03-27 at 3.28.58 PM.png
-
-/Users/loanho/Desktop/Screenshot 2024-03-27 at 3.36.43 PM.png
+![Alt text](</Users/loanho/Desktop/Screenshot 2024-03-27 at 3.28.58 PM.png>)
+![Alt text](<//Users/loanho/Desktop/Screenshot 2024-03-27 at 3.36.43 PM.png>)
 
 * Second attempt was perform with AutoOptimization model to try to get the better performance by using tensorflow and keras library. However, this model is doing just a little bit better with 73% accuracy.
 
-/Users/loanho/Desktop/Screenshot 2024-03-27 at 3.40.09 PM.png
-
-/Users/loanho/Desktop/Screenshot 2024-03-27 at 3.40.44 PM.png
+![Alt text](</Users/loanho/Desktop/Screenshot 2024-03-27 at 3.40.09 PM.png>)
+![Alt text](</Users/loanho/Desktop/Screenshot 2024-03-27 at 3.40.44 PM.png>)
 
 * The third attemp was performed with similar to attemp 1. However, I changed the hidden layer from two to three, change the hidden node layer number. However, the accuracy was still at 72%
 
-/Users/loanho/Desktop/Screenshot 2024-03-27 at 3.58.32 PM.png
-/var/folders/ql/zknntgcj1bg90qlc5j5yzk0c0000gn/T/TemporaryItems/NSIRD_screencaptureui_RfMCgh/Screenshot 2024-03-27 at 3.59.05 PM.png
+![Alt text](<//Users/loanho/Desktop/Screenshot 2024-03-27 at 3.58.32 PM.png>)
+![Alt text](</var/folders/ql/zknntgcj1bg90qlc5j5yzk0c0000gn/T/TemporaryItems/NSIRD_screencaptureui_RfMCgh/Screenshot 2024-03-27 at 3.59.05 PM.png>)
+
 
 ## Summary:
 
