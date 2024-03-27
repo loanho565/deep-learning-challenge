@@ -15,20 +15,21 @@ The purpose of this analysis is to assist the nonprofit foundation Alphabet Soup
 
 * The first attemp, I chose the model with two hidden layers. The hidden nodes layer 1 is 80 and the hidden nodes layer 2 is 30. Model then got compile and got train. However, the accuracy is only 72%.
 
-![Alt text](</Users/loanho/Desktop/Screenshot 2024-03-27 at 3.28.58 PM.png>)
-![Alt text](<//Users/loanho/Desktop/Screenshot 2024-03-27 at 3.36.43 PM.png>)
+![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/1.1.png>)
+![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/1.2.png>)
 
 * Second attempt was perform with AutoOptimization model to try to get the better performance by using tensorflow and keras library. However, this model is doing just a little bit better with 73% accuracy.
 
-![Alt text](</Users/loanho/Desktop/Screenshot 2024-03-27 at 3.40.09 PM.png>)
-![Alt text](</Users/loanho/Desktop/Screenshot 2024-03-27 at 3.40.44 PM.png>)
+![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/2.1.png>)
+![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/2.2.png>)
 
 * The third attemp was performed with similar to attemp 1. However, I changed the hidden layer from two to three, change the hidden node layer number. However, the accuracy was still at 72%
 
-![Alt text](<//Users/loanho/Desktop/Screenshot 2024-03-27 at 3.58.32 PM.png>)
-![Alt text](</var/folders/ql/zknntgcj1bg90qlc5j5yzk0c0000gn/T/TemporaryItems/NSIRD_screencaptureui_RfMCgh/Screenshot 2024-03-27 at 3.59.05 PM.png>)
-
+![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/3.1.png>)
+![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/3.2.png>)
 
 ## Summary:
 
 Although the non automized model and the Auto Optimization model could not achive the target. The best accuracy that my model can predict is 73%. In the future, I would try to use auto optimization model with adjust some conditions such as dropping or adding some columns, adjust the number of bin, or adjust the epochs number to get the better model.
+
+
