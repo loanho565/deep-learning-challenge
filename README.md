@@ -15,18 +15,18 @@ The purpose of this analysis is to assist the nonprofit foundation Alphabet Soup
 
 * The first attemp, I chose the model with two hidden layers. The hidden nodes layer 1 is 80 and the hidden nodes layer 2 is 30. Model then got compile and got train. However, the accuracy is only 72%.
 
-![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/1.1.png>)
-![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/1.2.png>)
+![Alt text](<1.1.png>)
+![Alt text](<1.2.png>)
 
 * Second attempt was perform with AutoOptimization model to try to get the better performance by using tensorflow and keras library. However, this model is doing just a little bit better with 73% accuracy.
 
-![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/2.1.png>)
-![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/2.2.png>)
+![Alt text](<2.1.png>)
+![Alt text](<2.2.png>)
 
 * The third attemp was performed with similar to attemp 1. However, I changed the hidden layer from two to three, change the hidden node layer number. However, the accuracy was still at 72%
 
-![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/3.1.png>)
-![Alt text](</Users/loanho/Documents/deep-learning-challenge/Images/3.2.png>)
+![Alt text](<3.1.png>)
+![Alt text](<3.2.png>)
 
 ## Summary:
 
